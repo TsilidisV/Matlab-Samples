@@ -1,6 +1,6 @@
 %{
-Grapste µia synarthsh MATLAB pou na dexetai san eisodo µia syµboloseira
-x kai na thn epistrefei µe antestraµµenh seira.
+Γραψτε µια συναρτηση ΜΑΤΛΑΒ που να δεχεται σαν εισοδο µια συµβολοσειρα
+χ και να την επιστρεφει µε αντεστραµµενη σειρα.
 %}
 function p = rS(a)
 n = length(a);
