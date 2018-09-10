@@ -1,6 +1,6 @@
 %{
-ƒ¡ƒÏ?ƒÕƒÑƒÃ ƒÊƒÇƒ¿ ƒĞƒÒƒË?ƒÏƒÑƒÅƒĞƒÅ MATLAB ƒÎƒÍƒÒ ƒËƒ¿ ƒÂ?ƒÔƒÃƒÑƒ¿ƒÇ ƒĞƒ¿ƒË ƒÃ?ƒĞƒÍƒÂƒÍ ƒÊƒÇƒ¿ ƒĞƒÒƒÊƒÀƒÍƒÉƒÍƒĞƒÃƒÇƒÏ?
-x ƒÈƒ¿ƒÇ ƒËƒ¿ ƒÑƒÅƒË ƒÃƒÎƒÇƒĞƒÑƒÏ?ƒÓƒÃƒÇ ƒÊƒÃ ƒ¿ƒËƒÑƒÃƒĞƒÑƒÏƒ¿ƒÊƒÊ?ƒËƒÅ ƒĞƒÃƒÇƒÏ?.
+Grapste Âµia synarthsh MATLAB pou na dexetai san eisodo Âµia syÂµboloseira
+x kai na thn epistrefei Âµe antestraÂµÂµenh seira.
 %}
 function p = rS(a)
 n = length(a);
