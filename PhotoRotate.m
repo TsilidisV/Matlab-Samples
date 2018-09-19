@@ -1,3 +1,9 @@
+%{
+Γράψτε συνάρτηση PhotoRotate(filename) που να δέχεται ένα ασπρόμαυρο jpeg αρχείο εικόνας filename,
+να περιστρέφει την εικόνα κατά 90◦ αριστερόστροφα και να εμφανίζει
+την περιστραμμένη εικόνα.
+%}
+
 function PhotoRotate(filename)
   P = imread(filename);
   [n,m]=size(P);
