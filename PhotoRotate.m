@@ -9,10 +9,8 @@ function PhotoRotate(filename)
   [n,m]=size(P);
   rot=zeros(m,n);
   rot = uint8(rot);
-  for i=0:n-1
-    for j=0:m-1
-      rot(m-j,i+1)=P(i+1,j+1);
-    endfor
+  for i=1:m 
+     rot(m-i+1,:)=P(:,i)';
   endfor
   imshow(rot)
 endfunction
